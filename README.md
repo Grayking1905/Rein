@@ -55,3 +55,5 @@ Visit the [Discord Channel](https://discord.com/invite/C8wHmwtczs) for interacti
 ---
 
 > Contributions are welcome! Please leave a star ⭐ to show your support.
+
+node "C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js" run dev
